@@ -56,8 +56,8 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/JairoAlexandro/JairoAlexandro/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://profile-counter.glitch.me/JairoAlexandro/count.svg?"  />
+</div>
 
 ###
